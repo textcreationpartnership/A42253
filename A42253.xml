@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Grounds of unity in religion, or, An expedient for a general conformity and pacification</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42253</idno>
+            <idno type="STC">Wing G2144</idno>
+            <idno type="STC">ESTC R4632</idno>
+            <idno type="EEBO-CITATION">11889881</idno>
+            <idno type="OCLC">ocm 11889881</idno>
+            <idno type="VID">50415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50415)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 32:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Grounds of unity in religion, or, An expedient for a general conformity and pacification</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Bodleian Library .</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50415:1"/>
+            <pb facs="tcp:50415:1" rendition="simple:additions"/>
+            <p>THE Grounds of Unity IN RELIGION OR AN Expedient For a General <hi>CONFORMITY</hi> AND <hi>PACIFICATION.</hi>
+            </p>
+            <p>Printed in the Year, 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50415:2"/>
+            <pb n="3" facs="tcp:50415:2"/>
+            <head>The grounds of Unity IN RELIGION, &amp;c.</head>
+            <p>UNity and ſubmiſſion is deſired of all Princes and Common-wealths, as that which preſerves peace and happineſs in all ſocieties, for a Nation full of diſcontents and Factions, is next door to Rebellion, and conſequently ruine.</p>
+            <p n="2">2. One great foundation of peace is the due ſubmmiſſion of all pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tyes as well Eccleſiaſtical as Civil, to the temporal Prince, as ſupream Governour in all cauſes and ſubject to none but God.</p>
+            <p n="3">3. And this may be yielded and yet not a compleat ſatisfaction in the gene<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al, fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by a tolleration in Religion, different Sects may poſſible ſubmit for pollitick ends, though this unites not, but only palliates, which yet is better then a worſe evil.</p>
+            <p n="4">4. But that which breeds the perfect concord and compleat union is this, when the Eccleſiaſticks, and again, the people agree to and embrace the publick eſtabliſh'd Church-Diſcipline without murmuring, not out of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orce, but love and good opinion of it.</p>
+            <p n="5">5. To which end and purpoſe, it ought to be as rational and conſonant to the law of nature as poſſible, agreeing with the plain apprehenſions of humanity and down right ſincerity of the com<g ref="char:EOLhyphen"/>mons, without ſpecious circumſtances or impertinencies, which the people think are but amuzements and Sophiſtications in the wor<g ref="char:EOLhyphen"/>ſhip of God, bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet alſo compliant with the ends of prudence, and order without affectation of Novelty on th'one hand, or ſuperſtition on th'other, and this will infallibly be of force, for being founded in reaſon, it will be aplicable and comprehenſive to all reaſonable men.</p>
+            <p n="6">6. For this is certain, the Church was pure and plain at the be<g ref="char:EOLhyphen"/>ginning, without ceremonies and circumſtances; and Chriſtians met together humbly, decently, and religiouſly, with hearty Prayers to God, and hearing of the word fervently preach'd with
+<pb n="4" facs="tcp:50415:3"/> ſuch apprehenſiveneſs and reaſon, that they made the people wil<g ref="char:EOLhyphen"/>lingly to reſign their blind and ſuperſtitious opinions to ſuch real and demonſtrated truths, preſſing them to ſearch the Scriptures and their own conſciences whether thoſe things they taught were ſo or no; in this purity and ſincerity, were the primitive times, with which their innocency and holineſs of life ſo prevaild, that many Kings and Kingdomes in ſhort time embraced the Chriſtian Religion, and ſtrongly upheld it; but after, it grew to ſo much ſplendor and pompe, that Superſtition, Vanity and arrogance crept alſo by degrees into the Clergy, that ſoon dimn'd the Luſter, and abated the true glory of Religion, and was the cauſe of many di<g ref="char:EOLhyphen"/>viſions.</p>
+            <p n="7">7. For this is a rule in the diſcipline of the Church and worſhip of God, that too much formality ſpoyls devotion, and makes men cold in the ſearches after truth; the mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e plain and free from cere<g ref="char:EOLhyphen"/>monies and circumſtantials it is, provided it be decent, the more pure and ſubſtantial it will prove, and the more ground for a general union; wherefore in all ſuch caſes, much care ſhould be taken that the great ſtumbling blocks of diſcontent be taken away, for though they are of themſelves indifferent, yet when they bring much and conſiderable diſturbance, they then ceaſe to be indiffe<g ref="char:EOLhyphen"/>rent as to peace and quietneſs, and ſo are better regulated or re<g ref="char:EOLhyphen"/>moved.</p>
+            <p n="8">8. Now doubtleſs though Epiſcopacy is the pureſt, as well as the moſt antient diſcipline of the Church, having obtained in all Chriſtian Churches of the world of what ſort or ſect ſoever, for 1500 years together after Chriſt, and the Church of <hi>England</hi> at preſent is lookt upon to be the beſt regulated of all Epiſcopacy, and yet if there can be any more advantages given to it for the far<g ref="char:EOLhyphen"/>ther improvement of Unity, from antient preſcription, right rea<g ref="char:EOLhyphen"/>ſon or modern example, doubtleſs it might be good to be put in practice, for we ſhould ſtill aſcend to improvement and perfection, for the more comprehenſive and generally acceptable it is, the more firm and eſtabliſht it will be.</p>
+            <p n="9">9. For there is nothing conduceth more to unity and peace then by taking off and reducing the general Factions of Religion, which is done by enlarging the boſom of the Church and taking
+<pb n="5" facs="tcp:50415:3"/> off things that are cavild at, provided only they are Circumſtanti<g ref="char:EOLhyphen"/>alls, as commonly they are, and not the materials and Eſſentials of Religion; ſo would both the cavils ceaſe, and Sectaryes alſo, and of courſe fall of themſelves to the ground without more ado, and incorporate to the ſame Church with us unavoydably.</p>
+            <p n="10">10. For the true way of unity, is ſuch a compoſed mean of Church-Diſcipline as may render the major part and generality of rational people ſatisfied, which may eaſily be done with us with<g ref="char:EOLhyphen"/>out altring the frame of government or taring things to peices, but only by joyning the two great Parties of this Nation together, <hi>(viz.)</hi> the <hi>Epiſcopal</hi> and <hi>Presbiterian,</hi> which parties are at leaſt nine parts in ten of the nation including all other Sects, which may be done by a little regulation, abating only ſome things and refor<g ref="char:EOLhyphen"/>ming others.</p>
+            <p n="11">11. For Epiſcopacy and the ſame diſcipline in general is well enough approved by the moſt, but as in all times of civil govern<g ref="char:EOLhyphen"/>ment, emendations and making Laws hath been for the better conveniency of the publick according to the emergencies of things, and conjuncture of times and occaſions, ſo alſo is it convenient in the Eccleſiaſtic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Regiment<g ref="char:punc">▪</g> for ſome things will be alwayes proper at ſome times, and ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me ages, that is not proper in the other; and ſo acco<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dingly they muſt be remedied, for in an age or ſome long tract of time mens manners and the conſtitutions of things alter extreamly, and ſo muſt have corrections proportionably.</p>
+            <p n="12">12. And all people being now ſatisfied that the Church of <hi>En<g ref="char:EOLhyphen"/>gland</hi> by Epiſcopacy is to be the ſtanding Government, being eſta<g ref="char:EOLhyphen"/>bliſht by Parliament and owned ſo in his Majeſties late Declarati<g ref="char:EOLhyphen"/>on for Liberty, if there be once a further comprehenſion of the Presbiterians in and according to that Government; all other par<g ref="char:EOLhyphen"/>ties will ſoon be quiet as too ſmall to ſtand in computation on the one hand, and on th' other hand the Church being thus regulated will bring in the reſt dayly alſo, ſo that ſome ſmall regulation and abatement of the very ſame Church-diſcipline we have already, will work the deſired effect. And as for the other diſſenters they may have all the ſame loving connivance and indulgence they have at preſent, but no legal liberty; for legal allowance will make them impudent, and endeavour to encreaſe, whereas otherwiſe they will be humble and cautions.</p>
+            <p n="13">
+               <pb n="6" facs="tcp:50415:4"/>13. Wherefore unite thoſe two partyes, and the Church is eſta<g ref="char:EOLhyphen"/>bliſht and much better and ſtrong<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r then ever, this will not onely oblige our friends at home, but all the Proteſtants beyond Seas, and this may be done by the rule aboveſaid without altring the mode of Government, for we differ but in a few things in diſci<g ref="char:EOLhyphen"/>pline and none in doctrine, they have left of themſelves the notion of Elders, and if it were in their own choice would direct moderate Epiſcopacy, and would con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ede yet very much more for the gai<g ref="char:EOLhyphen"/>ning of our f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iendſhip <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng one with us which will be a very happy period of that long and great conteſt now never to be heard of any more.</p>
+            <p n="14">14. To eff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct this, a few things will be ſufficient, as diſpencing with the Su<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>plice, and part of one Oath in the Act of Uniformity, alſo the croſing in Baptiſm and kneeling at the Sacrament le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in<g ref="char:EOLhyphen"/>different, and pluralities taken away; theſe things being abated, they would agree with all things elſe very well, and be as much or more for Epiſcopacy then our ſelves, and why ſhould not we deſire this alſo that will unite us ſo invinceably, wherefore ſhould we ſtick at ſuch little circumſtances to hinder ſo great a work; and as for taking away pluralities, there are but few ſober men of either party but hartily deſire it, it being that which makes ill thoſe which have too many, and hinde<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s aboundance of learned men from preferment, it being prudence in government, rather to pro<g ref="char:EOLhyphen"/>vide convenient and comfortable preferments for many, than great preferments for f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w; and things thus remedyed and quallified will be ſo far f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om weakning the P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oteſtant intereſt, that it will raiſe it higher th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ever, and make Epiſcopacy ſtand upon a firm and everlaſting B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſis. I am confident theſe few things laſt mentio<g ref="char:EOLhyphen"/>ned will do the work; however if there were any other hindrances of the like nature, what matter were it to remove them for the Churches ſecurity, the advantage will ſoon be perceived, this will drown and take away the name of Presbittery as well as all nick<g ref="char:EOLhyphen"/>names of parties, and make them have no abettors nor underſtand how to beget a quarrel if they would themſelves.</p>
+            <p n="15">15. Some may ſay it will be ill making alterations, but that is t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me extraordinary thing which diſcontents the major part of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Nation; but this is the contrary, for here the major part will not only be well pleaſed at it, but will alſo be advantaged: where then is the inconveniency of it, the Royal and Proteſtant party if
+<pb n="7" facs="tcp:50415:4" rendition="simple:additions"/> Ceremonies were abated, would not be obliged, or the leſs Subjects for it, they referring all ſuch Matters to the King and Parliament, and would be as well pleaſed in his Majeſties farther Directions in this, as they were with Queen <hi>Elizabeths</hi> before, for it is all one to them if the Government be ſatisfied, they acquieſs as well in taking of them away, as ſetting of them up, and more becauſe they ſee, its for making many Friends; Again, the Presbiterians and other Sectaries, that were diſpleaſed before, are by this reconcil<g ref="char:EOLhyphen"/>ed, which will on all the ſcores of Humanity and Chriſtianity, ob<g ref="char:EOLhyphen"/>lige them to be gratefull to Eternity, and for the Church of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> it will very much inlarge the boſome of it, Exalting it above all Diſciplines, making it ſo firm, that nothing can ſhake it.</p>
+            <p n="16">16. Others may object, that if theſe things be granted, the Sectaries will deſire more and more ſtil, till they have pul'd down all Decencie, good Order, and Eccleſiaſtical Government, but this doth not follow, for by the ſame Rule, there cant be a motion to reform any thing amiſs whatſoever, but they ſhall ſtraight prevent it by a pretence of a deſtructive change, but this alters no ground work or ſubſtantials in Diſcipline, only pruning of ſome ſuperflu<g ref="char:EOLhyphen"/>ties, for according to the common Maxime, take away the Cauſe, and the Effect ceaſeth, for example, if a man putteth on Laces on his Linnen or Garment, ſome will ſay they are to broad, others to narrow, others not fine enough, otherwiſe again, no good pattern, when he that weares none gives no oppertunity to be talked on, or for any body to be diſpleaſed with him. So its generally in all other things, the more plain and ſubſtantiall it is, the better its liked, and ſo in Diſcipline, if they ſhould quarrel at foundations and ſubſtantial things, they would render their party weak and themſelves rediculous, wherefore for their own Credit and Chriſti<g ref="char:EOLhyphen"/>anity, they would not unrip thoſe ſacred Tyes and Ligaments but many Ceremonies and circumſtantials, common reaſon tels us, is li<g ref="char:EOLhyphen"/>able to the cenſure of every common pretender under the notion of ſuperſtition, whilſt plainneſs and ſeriouſneſs in Religion, fils up all peoples hearts to applaude it, its no policy to uphold things to be argued and diſputed at or cauſe differences, when taking of them away cureth the troubles without any more to do, cutting off the diſcontented Cavill.</p>
+            <p n="17">
+               <pb n="8" facs="tcp:50415:5"/>17. For true ballance of the Church Government, is to have as few unneceſſary obligations as poſſible, and to be free from all Cloggs in oppreſſion of reaſon or conſcience, but giving lattitude, be comprehenſive of the generallity as much as may be, for all Ar<g ref="char:EOLhyphen"/>tifices ought to be contrived for inlarging the boſom of the Church to the utmoſt Extent, and in caſes of this nature private Anni<g ref="char:EOLhyphen"/>moſities ought by every one to be laid aſide for the publick Con<g ref="char:EOLhyphen"/>cern.</p>
+            <p n="18">18. All manner of Church rigor being thus calmed, how ſtrong ſhould we be in our ſelves, it would keep many ſtrickt ſort of peo<g ref="char:EOLhyphen"/>ple from going beyond Sea, blaſt all the deſignes of the Enemies of the Church, and oblige all ſorts of forreign and home Proteſt<g ref="char:EOLhyphen"/>ants, making them flock to it and cheriſh ſo moderate a Govern<g ref="char:EOLhyphen"/>ment, and would not ſcruple at Biſhops or any good Order, but would gladly joyn with them, as being queſtionleſs the beſt Go<g ref="char:EOLhyphen"/>vernment in the world if truly regulated, and when once the great Ones and heads of Parties are obliged by ſtate Prudence, the reſt will ſoon crumble to nothing, by this all Sectaries will diminiſh when once the apparent grounds of difference is taken away, ſo this would not only unite us for the preſent, but keep people from growing to be Schizmaticks, for the future as well as increaſe the bo<g ref="char:EOLhyphen"/>dy of the Church, when they ſee it is not Ceremonies are ſtood on as ſome incendiaries pretend, but inſtead thereof ſo much will<g ref="char:EOLhyphen"/>ingneſs and plain hartedneſs, to unite all people in the Worſhip of God. Thus ſhall the Church of <hi>England</hi> be more firmly eſtabliſht then ever, the people pleaſed and conformable, His Majeſty fear<g ref="char:EOLhyphen"/>ed of his Enemies abroad, and become ſtrong in the affections of his Subjects at home; Trade alſo would ſoon revive and flouriſh, and not only the <hi>Dutch,</hi> but other Proteſtants alſo flock over with banks of Money, and Manufacturies, His Majeſty by it gaining the hearts of all the Proteſtants of <hi>Europe,</hi> as well as their Trades and Merchandize, by endeavouring to eſtabliſh, thus the purity of the VVorſhip of God, eaſing of tender Conſciences, and ſe<g ref="char:EOLhyphen"/>curing them more free in their perſons Religion and Property, then any place in the world beſides, which is that which increaſeth the Trade and grandure of any Nation.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
